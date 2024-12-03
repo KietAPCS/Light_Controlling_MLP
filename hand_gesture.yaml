@@ -1,0 +1,7 @@
+gestures:
+  0: "turn_off" # a
+  1: "light1" # b
+  2: "light2" # c
+  3: "light3" # d
+  4: "turn_on" # e
+
