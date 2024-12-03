@@ -1,6 +1,6 @@
 # Controlling Light Project
 
-This project allows for controlling lights through gestures using a trained machine learning model. The project is built using Python, TensorFlow, and other libraries to recognize hand gestures and simulate light control based on detected gestures.
+This project allows for controlling lights through gestures using a trained machine learning model. The project is built using Python, Pytorch, and other libraries to recognize hand gestures and simulate light control based on detected gestures.
 
 ## Table of Contents
 
