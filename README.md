@@ -30,7 +30,7 @@ Accuracy of model: 0.9937826991081238
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Controlling_Light.git
+   git clone https://github.com/KietAPCS/Light_Controlling_MLP.git
    cd Controlling_Light
    ```
 
