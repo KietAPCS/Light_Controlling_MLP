@@ -45,3 +45,13 @@ To run the project, execute the following command in your terminal:
 ```bash
 python detect_simulation.py
 ```
+
+## Project Structure
+
+The baseline of the project is given below:
+
+![Baseline](./figures/summary.png)
+
+## License
+
+This project was done succesfully thanks to the help and guideline from AIO_VIETNAM sources. However, complete code and visualization and other adjustments were totally done by me (KietAPCS).
