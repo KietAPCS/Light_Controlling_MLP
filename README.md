@@ -46,11 +46,11 @@ To run the project, execute the following command in your terminal:
 python detect_simulation.py
 ```
 
-## Project Structure
-
 The baseline of the project is given below:
 
-![Baseline](./figures/baseline.png)
+<p align="center">
+  <img src="./figures/baseline.png" alt="Baseline" width="500"/>
+</p>
 
 ## License
 
