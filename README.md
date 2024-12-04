@@ -21,9 +21,7 @@ Make sure you have the following libraries installed:
 
 ## Results
 
-NeuralNetwork
-
-Accuracy of model: 0.9937826991081238
+![Results Image](./figures/summary.png)
 
 ## Installation
 
