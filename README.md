@@ -5,6 +5,7 @@ This project allows for controlling lights through gestures using a trained mach
 ## Table of Contents
 
 - [Requirements](#requirements)
+- [Results](#results)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
