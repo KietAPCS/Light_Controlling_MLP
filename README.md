@@ -50,7 +50,7 @@ python detect_simulation.py
 
 The baseline of the project is given below:
 
-![Baseline](./figures/summary.png)
+![Baseline](./figures/baseline.png)
 
 ## License
 
