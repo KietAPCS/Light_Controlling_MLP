@@ -204,6 +204,6 @@ class LightGesture:
 
 if __name__ == "__main__":
 
-    model_path = "models\model_03-12_18-00_NeuralNetwork_best"
+    model_path = "models/model_04-12_07-50_NeuralNetwork_best"
     light = LightGesture(model_path, device=False)
     light.run()

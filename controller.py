@@ -1,7 +1,7 @@
 print("Sensors and actuator")
 import platform
 import serial
-from serial.tools import list_ports
+# from serial.tools import list_ports
 import time
 
 # 2 last number is crc
